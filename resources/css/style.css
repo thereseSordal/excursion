@@ -16,6 +16,10 @@ a{
   font-size: 16px;
 }
 
+video {
+    object-fit: contain;
+}
+
 h2 {
   color: white;
   font-weight: 300;
@@ -26,6 +30,6 @@ p {
   font-size: 21px;
   color: gray;
 }
-.copywrite {
+.footer {
   text-align: right;
 }
